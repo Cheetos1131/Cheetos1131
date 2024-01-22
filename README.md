@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @Cheetos1131
-- 👀 I’m interested in Computer Science, Physics, and high-level mathematics such as Calculus
+- 👋 Hi, I’m @Cheetos1131. I am a current Computer Science major.
 - 🌱 I’m currently learning Python and Java
 
 <!---
